@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Imperial Script', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  font-family: 'Imperial Script';
+ 
+}
+
+/* :root {
+    --main-background: #ff0000;
+  }
+
+  body{
+    background-color: var(--main-background) !;
+  } */
+
+.card1 {
+  background-color: white;
+  box-shadow: black;
+  padding: 20px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+
+.imagew {
+  margin-top: -50px;
+}
+
+.contact_color {
+  background-color: rgba(236, 178, 46, 0.0754);
+  padding: 60px;
+  align-items: center;
+
+}
+
+.fm {
+  color: red;
+}
+
+.vm {
+  color: gray;
+}
